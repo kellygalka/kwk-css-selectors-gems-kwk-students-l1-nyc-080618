@@ -32,7 +32,7 @@
 }
 
 /* Select the image that has ad id of diamond */
-{
+img[Diamond{
   position: absolute;
   z-index: 3;
   top: 300px;
